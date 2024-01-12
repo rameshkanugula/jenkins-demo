@@ -1,5 +1,5 @@
 #!/bin/bash
 
 # This is a simple script
-echo "Hello, this is ramesh here!"
+echo "Hello, this is ramesh!"
 
